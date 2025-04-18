@@ -1,4 +1,4 @@
-Keycloak
+Keycloak 25.0.4
 ========
 
 To get help configuring Keycloak via the CLI, run:
